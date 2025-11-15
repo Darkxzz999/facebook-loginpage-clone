@@ -9,7 +9,7 @@
 
 Due to Google’s policy restrictions, cloning or replicating popular websites’ login or homepage designs is not allowed. As a precaution and to maintain compliance, we decided to unpublish the affected project. The repository has now been safely moved to my secondary GitHub backup account for internal reference and archival purposes.
 
-> My original GitHub Account was given below, 
+> My original GitHub Account was given below, as well as added as Collaborator on this repo.
 
 ## 👨‍💻 Developed By  
 
@@ -54,4 +54,5 @@ This project is a high-fidelity UI clone of the current Facebook login page, met
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> 
 
 ---
+
 
